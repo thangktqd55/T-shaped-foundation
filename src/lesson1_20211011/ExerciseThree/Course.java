@@ -1,4 +1,4 @@
-package lesson1_20211011.ExcerciseThree;
+package lesson1_20211011.ExerciseThree;
 
 import java.lang.reflect.Type;
 import java.io.*;
@@ -72,7 +72,7 @@ public class Course {
 
         Gson gson = new Gson();
 
-        try (Reader reader = new FileReader("src/lesson1_20211011/ExcerciseThree/data.json")) {
+        try (Reader reader = new FileReader("src/lesson1_20211011/ExerciseThree/data.json")) {
             Type objectType = new TypeToken<Object>() {
             }.getType();
 
