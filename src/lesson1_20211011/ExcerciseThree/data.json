@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "courseId": "AWTB_181210DN",
+      "courseName": "API_webservice_testing_level_1",
+      "instructor": "johny",
+      "startDate": "10-Dec-2018",
+      "lessons": 6,
+      "level": 1
+    },
+    {
+      "courseId": "AWTA_181211",
+      "courseName": "API_webservice_testing_level_2",
+      "instructor": "mary",
+      "startDate": "11-Dec-2018",
+      "lessons": 10,
+      "level": 2
+    },
+    {
+      "courseId": "AWTA_200930",
+      "courseName": "Selenium_level_1",
+      "instructor": "victor",
+      "startDate": "30-Sep-2020",
+      "lessons": 8,
+      "level": 1
+    }
+  ]
+}
